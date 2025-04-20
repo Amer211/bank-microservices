@@ -15,6 +15,10 @@ public class UserServiceApplication {
 
 		SpringApplication.run(UserServiceApplication.class, args);
 		logger.info("*******user-service has started*****");
+		System.out.println("""
+				***************************************
+				User-Service has started
+				***************************************""");
 
 	}
 
