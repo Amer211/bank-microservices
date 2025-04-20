@@ -13,6 +13,10 @@ public class AccountServiceApplication {
 
 		SpringApplication.run(AccountServiceApplication.class, args);
 		logger.info("****Account-service has started*******");
+		System.out.println("""
+				***************************************
+				Account-Service has started
+				***************************************""");
 	}
 
 }
