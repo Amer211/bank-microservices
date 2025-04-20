@@ -15,7 +15,7 @@ A Spring Boot-based microservices application for registering users and managing
 - Spring Boot
 - Spring Cloud (Eureka, Gateway)
 - Spring Web, Spring Data JPA
-- H2 / PostgreSQL (optional)
+- MySQL
 - Maven
 
 ## 📦 Folder Structure
